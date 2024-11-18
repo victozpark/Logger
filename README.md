@@ -246,5 +246,5 @@ if (logger.finalize() != RetType::RET_SUCCESS) {
 }
 ```
 ----
-Please let me know if there are any bugs or features you would like to use. <br>
+Please let me know if there is any bug or feature you would like to use. <br>
 Thank you. :)
