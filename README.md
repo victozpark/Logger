@@ -13,7 +13,7 @@ Simple and high-performance log module based on C/C++
 ## UML class diagram
 #### Logger module
 
-<img src="https://private-user-images.githubusercontent.com/46546765/386926311-2c73f266-97a0-4222-b034-40081d6479d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE5NjkzMDYsIm5iZiI6MTczMTk2OTAwNiwicGF0aCI6Ii80NjU0Njc2NS8zODY5MjYzMTEtMmM3M2YyNjYtOTdhMC00MjIyLWIwMzQtNDAwODFkNjQ3OWQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE4VDIyMzAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4MWM3YTg4NjFiMDAzNGRhYTJjMTk2MTJkYmJmYjEwY2ZkNTgyMDk5NThhYjE0ZWY0YjExYjU4N2MzNjg0MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RciPD7fyWKzY_-pu9jdCGx5hBcKb4-fAORIecHKX8vs" width="100%">
+<img src="https://github.com/victozpark/Logger/blob/main/images/Logger.png?raw=true" width="100%">
 
 ----
 
