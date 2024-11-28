@@ -13,7 +13,7 @@ Simple and high-performance log module based on C/C++
 ## UML class diagram
 #### Logger module
 
-<img src="https://github.com/victozpark/Logger/blob/main/images/Logger.png?raw=true" width="100%">
+<img src="https://github.com/victozpark/images/blob/main/Logger/Logger.png" width="100%">
 
 ----
 
